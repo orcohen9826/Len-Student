@@ -44,3 +44,9 @@ The intuitive user interface and easy access to the most up-to-date board image 
 7. Access the most recent image of the board captured by the computer application within the LenStudent mobile app's floating window.
 8. Tap on the LenStudent mobile app icon to open the floating window and view the most new board image at any time
 9. Optionally, download the latest board image to your mobile device for offline access or further review.
+
+## Contributors
+- [Or Cohen](https://github.com/orcohen9826)
+- [Sahar Galimidi](https://github.com/SaharGalimidi)
+- [Amir Peleg](https://github.com/AmirPeleg)
+
