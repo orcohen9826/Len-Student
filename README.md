@@ -50,3 +50,7 @@ The intuitive user interface and easy access to the most up-to-date board image 
 - [Sahar Galimidi](https://github.com/SaharGalimidi)
 - [Amir Peleg](https://github.com/AmirPeleg)
 
+## Process Simulation Video
+[![Watch the video](https://img.youtube.com/vi/ptkJ1_UQj3M/0.jpg)](https://youtu.be/ptkJ1_UQj3M)
+
+
