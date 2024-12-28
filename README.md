@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="407" alt="LenStudent" src="https://github.com/Afekaton7/LenStudent/assets/87901270/45706201-21eb-4002-9ae5-f8e6962c86f8">
-</p>
 
 
 https://github.com/Afekaton7/LenStudent/assets/87901270/f608f10f-7d0f-4a0c-9768-b9365bf8262b
