@@ -9,10 +9,9 @@ By utilizing image recognition technology and capturing images of the board, Len
 allowing them to fully engage in the lecture while saving valuable time and keeping the privacy of the lecturers
 
 ## Process Simulation Video
-<video width="800" controls>
-  <source src="https://github.com/orcohen9826/Len-Student/raw/main/vid/Process_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+ https://github.com/orcohen9826/Len-Student/raw/main/vid/Process_demo.mp4" type="video/mp4">
+
 
 
 
