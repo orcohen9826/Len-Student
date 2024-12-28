@@ -10,7 +10,9 @@ allowing them to fully engage in the lecture while saving valuable time and keep
 
 ## Process Simulation Video
 [![Watch the video](https://img.youtube.com/vi/ptkJ1_UQj3M/0.jpg)](https://youtu.be/ptkJ1_UQj3M)
-https://github.com/orcohen9826/Len-Student/blob/main/vid/Process_demo.mov
+## Demo Video
+[Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/87901270/239261314-f608f10f-7d0f-4a0c-9768-b9365bf8262b.mp4)
+
 ## APP Simulation Video
 https://github.com/Afekaton7/LenStudent/assets/87901270/f608f10f-7d0f-4a0c-9768-b9365bf8262b
 
